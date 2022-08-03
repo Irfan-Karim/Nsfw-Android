@@ -34,7 +34,7 @@ val analyzer = Analyzer(context)
 ### Provide the bitmap to be classified to analyzer's classify method
 
 ```
-analyzer.classify(it) { result ->
+analyzer.classify(bitmap) { result ->
   binding.tvResult.text = result.name
 }
 ```
