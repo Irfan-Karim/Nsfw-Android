@@ -1,6 +1,6 @@
 # NSFW - Not Safe For Work Detector Android
 
-### This Android Library used Tensor Flow lite model to classify if the provided Image is Safe for work or not.
+### This Android Library usew a Tensor Flow lite model to classify if the provided Image is Safe for work or not.
 
 ## Import
 
