@@ -1,4 +1,4 @@
-# NSFW - Not Safe For Work Detector Android
+# NSFW - Not Safe For Work Content Detector Android
 
 ### This Android Library uses a Tensor Flow lite model to classify if the provided Image is Safe for work or not.
 
